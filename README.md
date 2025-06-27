@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Aryan Mukund Singh
 
-<!--
-**Aryan-040/Aryan-040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Full-Stack Enthusiast | AWS Learner**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on full-stack and cloud-based projects  
+- 🌱 Learning Docker, Kubernetes, and advanced AWS cloud architectures  
+- 💬 Ask me about React, Next.js, Python, C++, and AWS  
+- 📫 How to reach me: **singharyan432002@gmail.com**  
+- ⚡ Fun fact: I love building, breaking, and rebuilding things  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- 💻 Languages: Python, C++, JavaScript, HTML, CSS  
+- 🌐 Frontend: React.js, Next.js, Tailwind CSS  
+- 🖥 Backend: Node.js, Express.js  
+- ☁️ Cloud: AWS EC2, S3, IAM, CloudFront, Lambda  
+- 🛠 Tools: Git, GitHub, VS Code  
+
+## 📊 GitHub Stats
+
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-040&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-040&layout=compact&theme=radical)
+
+## 🔗 Connect with Me
+
+- 🔹 [LinkedIn](https://www.linkedin.com/in/aryan-mukund-singh)  
+- 📧 Email: singharyan432002@gmail.com  
