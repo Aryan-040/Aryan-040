@@ -8,6 +8,12 @@
 - 📫 How to reach me: **singharyan432002@gmail.com**  
 - ⚡ Fun fact: I love building, breaking, and rebuilding things  
 
+### 📦 Public Repositories
+
+![Repo Count](https://img.shields.io/github/repo-count/aryan-040?style=for-the-badge&color=orange)
+
+---
+
 ## 🛠️ Tech Stack
 
 - 💻 Languages: Python, C++, JavaScript, HTML, CSS  
@@ -16,10 +22,14 @@
 - ☁️ Cloud: AWS EC2, S3, IAM, CloudFront, Lambda  
 - 🛠 Tools: Git, GitHub, VS Code  
 
+---
+
 ## 📊 GitHub Stats
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-040&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-040&layout=compact&theme=radical)
+
+---
 
 ## 🔗 Connect with Me
 
