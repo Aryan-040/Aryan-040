@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:4ECDC4&height=180&section=header&text=✨%20Hey%2C%20I'm%20Nikhil%20✨&fontSize=40&fontColor=fff&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:4ECDC4&height=180&section=header&text=✨%20Hey%2C%20I'm%20Aryan Mukund Singh%20✨&fontSize=40&fontColor=fff&fontAlignY=35)
 
 <!-- Typing Intro -->
 <p align="center">
@@ -11,28 +11,27 @@
 ---
 
 ## 💡 About Me
-- 🎯 Passionate about **Full-Stack Development** & **AI Research**  
+- 🎯 Passionate about **Full-Stack Development** & **Cloud Based Technologies**  
 - 🌱 Continuously learning & exploring new technologies  
 - 💡 Shaping **Ideas → Designs → Code → Solutions**
+- - ⚡ Fun fact: I love building, breaking, and rebuilding things  
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://instagram.com/n1kk_08"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://linkedin.com/in/n1kk08/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://x.com/n1kk_08"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="mailto:nikhilgargnikhil49@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://www.instagram.com/aryan4.03/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://www.linkedin.com/in/aryan-mukund-singh/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:singharyan432002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
 ---
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind,materialui" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,appwrite,opencv,tensorflow,pytorch" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,notion,jira,wordpress,vite" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,jira,vite" />
 </p>
 
 ---
