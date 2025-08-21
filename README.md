@@ -31,8 +31,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" /><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,jira,vite" />
+  <img src="https://skillicons.dev/icons?i=git,github,jira,vite,aws,docker,kubernetes" />
 </p>
+
 
 ---
 
