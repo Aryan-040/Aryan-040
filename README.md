@@ -76,6 +76,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-040&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryan-040/Aryan-040/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 
