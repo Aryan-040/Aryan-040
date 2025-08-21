@@ -31,18 +31,44 @@
 
 <!-- Languages -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br>TypeScript</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS</td>
+    </tr>
+  </table>
 </p>
 
-<!-- Frontend / Backend -->
+<!-- Frameworks -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br>React</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>Next.js</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
+    </tr>
+  </table>
 </p>
 
 <!-- DevOps / Tools -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vite,aws,docker,kubernetes" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vite" width="48"/><br>Vite</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br>Kubernetes</td>
+    </tr>
+  </table>
 </p>
+
 
 
 ---
