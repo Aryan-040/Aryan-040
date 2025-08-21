@@ -1,32 +1,25 @@
-permissions:
-  contents: write
-
 name: Generate Snake
 
 on:
-  schedule:
+  schedule: 
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
+
+permissions:
+  contents: write  
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Aryan-040
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: dist/snake.svg
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
