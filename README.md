@@ -76,8 +76,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-040&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-![GitHub Snake](https://github.com/Aryan-040/Aryan-040/blob/output/github-contribution-grid-snake.svg)
-![Profile Views](https://komarev.com/ghpvc/?username=Aryan-040&color=blueviolet&style=flat)
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Aryan-040/Aryan-040/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 
 ---
 
