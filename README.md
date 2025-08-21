@@ -38,9 +38,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=n1kk-08&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1kk-08&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Aryan-040&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-040&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
+
 
 ---
 
