@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:4ECDC4&height=180&section=header&text=✨%20Hey%2C%20I'm%20Aryan Mukund Singh%20✨&fontSize=40&fontColor=fff&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:4ECDC4&height=180&section=header&text=✨%20Hey%2C%20I'm%20AryanMukundSingh%20✨&fontSize=40&fontColor=fff&fontAlignY=35)
 
 <!-- Typing Intro -->
 <p align="center">
