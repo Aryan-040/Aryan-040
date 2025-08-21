@@ -28,14 +28,19 @@
 ---
 
 ## 💻 Tech Stack
+
+<!-- Languages -->
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" /><br/>
-  
-  <!-- Frontend / Backend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" /><br/>
-  
-  <!-- DevOps / Tools -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" />
+</p>
+
+<!-- Frontend / Backend -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
+</p>
+
+<!-- DevOps / Tools -->
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vite,aws,docker,kubernetes" />
 </p>
 
