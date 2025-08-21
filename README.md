@@ -14,7 +14,7 @@
 - 🎯 Passionate about **Full-Stack Development** & **Cloud Based Technologies**  
 - 🌱 Continuously learning & exploring new technologies  
 - 💡 Shaping **Ideas → Designs → Code → Solutions**
-- - ⚡ Fun fact: I love building, breaking, and rebuilding things  
+- ⚡ Fun fact: I love building, breaking, and rebuilding things  
 
 ---
 
