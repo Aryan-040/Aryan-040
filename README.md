@@ -29,9 +29,14 @@
 
 ## 💻 Tech Stack
 <p align="center">
+  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" /><br/>
+  
+  <!-- Frontend / Backend -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,jira,vite,aws,docker,kubernetes" />
+  
+  <!-- DevOps / Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vite,aws,docker,kubernetes" />
 </p>
 
 
