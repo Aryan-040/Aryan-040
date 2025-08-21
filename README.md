@@ -78,10 +78,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Aryan-040/Aryan-040/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 
 ---
