@@ -29,8 +29,9 @@
 
 ## 💻 Tech Stack
 
-<!-- Languages -->
 <p align="center">
+
+  <!-- Languages -->
   <table>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++</td>
@@ -41,10 +42,8 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS</td>
     </tr>
   </table>
-</p>
 
-<!-- Frameworks -->
-<p align="center">
+  <!-- Frameworks -->
   <table>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br>React</td>
@@ -53,10 +52,8 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
     </tr>
   </table>
-</p>
 
-<!-- DevOps / Tools -->
-<p align="center">
+  <!-- DevOps / Tools -->
   <table>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
@@ -67,8 +64,8 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br>Kubernetes</td>
     </tr>
   </table>
-</p>
 
+</p>
 
 
 ---
