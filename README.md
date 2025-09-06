@@ -5,6 +5,7 @@
 <!-- Animated Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=✨%20Hey,%20I'm%20Aryan%20Mukund%20Singh%20✨&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Tech%20Explorer&descAlign=50&descAlignY=55&descSize=16)
 
+
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -125,18 +126,16 @@
 <img src="https://streak-stats.demolab.com/?user=Aryan-040&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=667eea&fire=667eea&currStreakLabel=667eea" height="200" />
 </td>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aryan-040&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-040&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" height="200" />
 </td>
 </tr>
 </table>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-040&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" height="200" />
-
 </div>
 
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🎵 Currently Coding To
 
