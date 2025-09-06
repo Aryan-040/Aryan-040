@@ -104,12 +104,12 @@
 ## 🎵 Currently Coding To
 <div align="center">
   <a href="https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1?si=0yQQ78ynRumr-x6Oz3FZvg">
-    <img src="https://img.shields.io/badge/🎵%20♪%20Now%20Playing%20♪-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414&animation=pulse" alt="Now Playing"/>
+    <img src="https://img.shields.io/badge/🎵-Now%20Playing-1DB954?style=flat-square&logo=spotify&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/♪-♫-1DB954?style=flat-square" height="25"/>
+    <img src="https://img.shields.io/badge/♪-♫-1DB954?style=flat-square" height="25"/>
+    <img src="https://img.shields.io/badge/♪-♫-1DB954?style=flat-square" height="25"/>
   </a>
-  <br>
-  <sub>🔊 Currently vibing while coding! Click to join the session 🎧</sub>
 </div>
-
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
