@@ -99,14 +99,17 @@
 </div>
 
 <!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <div align="center">
   
-<!-- Spotify Embed Alternative -->
-<a href="https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1?si=0yQQ78ynRumr-x6Oz3FZvg">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=1db954" alt="Spotify Now Playing"/>
-</a>
+## 🎵 Currently Coding To
 
-</div>
+<div align="center">
+  
+  <!-- Main Playing Badge -->
+  <a href="https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1?si=0yQQ78ynRumr-x6Oz3FZvg">
+    <img src="https://img.shields.io/badge/🎵%20Now%20Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414" alt="Now Playing"/>
+  </a>
   
   <!-- Song Details Card -->
   <table>
