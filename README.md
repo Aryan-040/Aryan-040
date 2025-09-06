@@ -5,9 +5,10 @@
 <!-- Animated Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=✨%20Hey,%20I'm%20Aryan%20Mukund%20Singh%20✨&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Tech%20Explorer&descAlign=50&descAlignY=55&descSize=16)
 
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Dynamic Typing Animation -->
+<div style="margin: 30px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💫+Full-Stack+Developer+%26+Cloud+Architect;🚀+Building+Next-Gen+Scalable+Solutions;🤖+AI+%26+Machine+Learning+Enthusiast;🌱+Always+Learning+%26+Growing;⚡+Turning+Coffee+into+Code!" alt="Typing Animation" />
+</div>
 
 </div>
 
@@ -42,9 +43,7 @@
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 ## 🌐 Let's Connect & Collaborate!
 
@@ -68,55 +67,35 @@
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 ## 💻 Tech Arsenal
+
+<details>
+<summary>📌 Click to Expand</summary>
+<br>
 
 <div align="center">
 
 ### 🌟 Languages & Core Technologies
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-<img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++"/>
-<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript"/>
-<img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript"/>
-<img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5"/>
-<img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3"/>
-
-</div>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" height="50"/>
 
 ### 🚀 Frameworks & Libraries
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-<img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/>
-<img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS"/>
-
-</div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" height="50"/>
 
 ### ☁️ DevOps & Cloud Technologies
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-<img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS"/>
-<img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="Kubernetes"/>
-<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
-<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
-<img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vite" height="50"/>
 
 </div>
+</details>
 
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 ## 📊 GitHub Analytics
+
+<details>
+<summary>📌 Click to Expand</summary>
+<br>
 
 <div align="center">
 
@@ -132,12 +111,15 @@
 </table>
 
 </div>
+</details>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 ## 🎵 Currently Coding To
+
+<details>
+<summary>📌 Click to Expand</summary>
+<br>
 
 <div align="center">
 
@@ -159,29 +141,22 @@
 </div>
 
 </div>
+</details>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 ## 💭 Random Dev Quote
 
 <div align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" width="500" />
-
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 ## 🐍 Watch My Contributions Get Eaten!
 
 <div align="center">
-  
 <img src="https://raw.githubusercontent.com/Aryan-040/Aryan-040/output/snake.svg" alt="Snake animation" />
-
 </div>
 
 ---
