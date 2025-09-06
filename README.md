@@ -5,11 +5,6 @@
 <!-- Animated Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=✨%20Hey,%20I'm%20Aryan%20Mukund%20Singh%20✨&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Tech%20Explorer&descAlign=50&descAlignY=55&descSize=16)
 
-<!-- Dynamic Typing Animation -->
-<div style="margin: 30px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💫+Full-Stack+Developer+%26+Cloud+Architect;🚀+Building+Next-Gen+Scalable+Solutions;🤖+AI+%26+Machine+Learning+Enthusiast;🌱+Always+Learning+%26+Growing;⚡+Turning+Coffee+into+Code!" alt="Typing Animation" />
-</div>
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -141,9 +136,7 @@
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+
 
 ## 🎵 Currently Coding To
 
