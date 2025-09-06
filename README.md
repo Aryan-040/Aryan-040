@@ -129,9 +129,9 @@
 <td align="center">
 <img src="https://streak-stats.demolab.com/?user=Aryan-040&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=667eea&fire=667eea&currStreakLabel=667eea" height="200" />
 </td>
-<!-- <td align="center">
+<td align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Aryan-040&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" height="200" />
-</td> -->
+</td>
 </tr>
 </table>
 
@@ -148,11 +148,23 @@
 ## 🎵 Currently Coding To
 
 <div align="center">
-  
-<!-- Alternative: GitHub README Stats with Music -->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=compact&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Currently Playing on Spotify" />
 
-*Connect your Spotify to show what you're listening to while coding!*
+<a href="https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1?si=0yQQ78ynRumr-x6Oz3FZvg">
+  <img src="https://img.shields.io/badge/🎵%20Now%20Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing"/>
+</a>
+
+<br><br>
+
+<!-- Custom Spotify Card -->
+<div style="background: linear-gradient(45deg, #1DB954, #191414); padding: 20px; border-radius: 15px; max-width: 400px; margin: 0 auto;">
+  <div style="color: white; text-align: center;">
+    <h3 style="margin: 0; color: #1DB954;">🎶 My Coding Anthem</h3>
+    <p style="margin: 10px 0; font-size: 16px;">Currently vibing to my favorite track while coding!</p>
+    <a href="https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1?si=0yQQ78ynRumr-x6Oz3FZvg" style="color: #1DB954; text-decoration: none; font-weight: bold;">
+      🎵 Listen on Spotify
+    </a>
+  </div>
+</div>
 
 </div>
 
