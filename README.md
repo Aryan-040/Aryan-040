@@ -131,8 +131,8 @@
 </td>
 <!-- <td align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Aryan-040&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" height="200" />
-</td>
-</tr> -->
+</td> -->
+</tr>
 </table>
 
 <br>
@@ -145,11 +145,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🎵 Currently Vibing To
+## 🎵 Currently Coding To
 
 <div align="center">
   
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31k2fy2cigaq2hsf6jud2fqfhb6e&count=1&unique=true" alt="Spotify Recently Played" width="400" />
+<!-- Alternative: GitHub README Stats with Music -->
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=compact&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Currently Playing on Spotify" />
+
+*Connect your Spotify to show what you're listening to while coding!*
 
 </div>
 
