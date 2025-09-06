@@ -83,34 +83,34 @@
 ### 🌟 Languages & Core Technologies
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++"/>
+<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5"/>
+<img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3"/>
 
 </div>
 
 ### 🚀 Frameworks & Libraries
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS"/>
 
 </div>
 
 ### ☁️ DevOps & Cloud Technologies
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+<img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS"/>
+<img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="Kubernetes"/>
+<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite"/>
 
 </div>
 
