@@ -139,23 +139,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-040&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" height="200" />
 
-<br><br>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-040&bg_color=0D1117&color=667eea&line=667eea&point=FFFFFF&area_color=667eea&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="95%" />
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=Aryan-040&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="90%" />
-
 </div>
 
 <div align="center">
