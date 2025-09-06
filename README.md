@@ -70,14 +70,16 @@
 ## 💻 Tech Arsenal
 
 <div align="center">
-### 🌟 Languages & Core Technologies
+
+<h3>🌟 Languages & Core Technologies</h3>
 <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" height="40"/>
 
-### 🚀 Frameworks & Libraries
+<h3>🚀 Frameworks & Libraries</h3>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" height="40"/>
 
-### ☁️ DevOps & Cloud Technologies
+<h3>☁️ DevOps & Cloud Technologies</h3>
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vite" height="40"/>
+
 </div>
 
 <!-- Glowing Divider -->
