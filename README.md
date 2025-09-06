@@ -102,13 +102,31 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎵 Currently Coding To
+## 🎵 Currently Coding To
+
 <div align="center">
+  
+  <!-- Main Playing Badge -->
   <a href="https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1?si=0yQQ78ynRumr-x6Oz3FZvg">
-    <img src="https://img.shields.io/badge/🎵-Now%20Playing-1DB954?style=flat-square&logo=spotify&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/♪-♫-1DB954?style=flat-square" height="25"/>
-    <img src="https://img.shields.io/badge/♪-♫-1DB954?style=flat-square" height="25"/>
-    <img src="https://img.shields.io/badge/♪-♫-1DB954?style=flat-square" height="25"/>
+    <img src="https://img.shields.io/badge/🎵%20Now%20Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414" alt="Now Playing"/>
   </a>
+  
+  <!-- Song Details Card -->
+  <table>
+    <tr>
+      <td align="center" style="border: 2px solid #1DB954; border-radius: 10px; padding: 15px; background: linear-gradient(45deg, #191414, #1DB954);">
+        <b>🎶 My Coding Anthem</b><br>
+        <sub>🎧 Perfect vibes for productive coding sessions!</sub><br>
+        <a href="https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1?si=0yQQ78ynRumr-x6Oz3FZvg">
+          <img src="https://img.shields.io/badge/🔊-Listen%20Along-1DB954?style=flat&logo=spotify&logoColor=white" alt="Listen"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Music Bars Visualization -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1000&pause=100&color=1DB954&center=true&vCenter=true&width=200&height=30&lines=♪♪♪♪♪♪♪♪♪♪♪♪;♫♫♫♫♫♫♫♫♫♫♫♫;♪♪♪♪♪♪♪♪♪♪♪♪" alt="Music Bars"/>
+  
 </div>
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
