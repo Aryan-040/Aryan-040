@@ -8,7 +8,7 @@
 </div>
 
 <!-- Glowing Divider -->
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=15&section=footer)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎯 About Me
 
@@ -40,7 +40,7 @@
 </div>
 
 <!-- Glowing Divider -->
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=15&section=footer)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌐 Let's Connect & Collaborate!
 
@@ -65,7 +65,7 @@
 </div>
 
 <!-- Glowing Divider -->
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=15&section=footer)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💻 Tech Arsenal
 
@@ -81,7 +81,7 @@
 </div>
 
 <!-- Glowing Divider -->
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=15&section=footer)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
@@ -99,24 +99,19 @@
 </div>
 
 <!-- Glowing Divider -->
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=15&section=footer)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎵 Currently Coding To
-
 <div align="center">
-<a href="https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1?si=0yQQ78ynRumr-x6Oz3FZvg">
-  <img src="https://img.shields.io/badge/🎵%20Now%20Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing"/>
-</a>
-
-<div style="background: linear-gradient(45deg, #1DB954, #191414); padding: 15px; border-radius: 10px; max-width: 350px; margin: 10px auto; color: white; text-align:center;">
-  <h4 style="margin: 5px; color: #1DB954;">🎶 My Coding Anthem</h4>
-  <p style="margin: 5px; font-size:14px;">Currently vibing to my favorite track while coding!</p>
-  <a href="https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1?si=0yQQ78ynRumr-x6Oz3FZvg" style="color: #1DB954; text-decoration:none; font-weight:bold;">🎵 Listen on Spotify</a>
-</div>
+  <a href="https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1?si=0yQQ78ynRumr-x6Oz3FZvg">
+    <img src="https://img.shields.io/badge/🎵%20♪%20Now%20Playing%20♪-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414&animation=pulse" alt="Now Playing"/>
+  </a>
+  <br>
+  <sub>🔊 Currently vibing while coding! Click to join the session 🎧</sub>
 </div>
 
 <!-- Glowing Divider -->
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=15&section=footer)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💭 Random Dev Quote
 
@@ -125,7 +120,7 @@
 </div>
 
 <!-- Glowing Divider -->
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=15&section=footer)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🐍 Watch My Contributions Get Eaten!
 
@@ -134,7 +129,7 @@
 </div>
 
 <!-- Glowing Divider -->
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=15&section=footer)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 ### 💻 "Code is not just my profession, it's my passion!" 💻
