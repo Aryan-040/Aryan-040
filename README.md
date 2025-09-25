@@ -29,7 +29,6 @@
 
 ### ⚡ Quick Facts
 - 🎯 Passion: Transforming ideas into digital reality
-- 🌱 Currently Learning: Advanced AI/ML integration
 - 💡 Philosophy: Code → Build → Break → Learn → Repeat
 - 🎵 Fun Fact: I debug better with music on!
 - 🌍 Mission: Making technology accessible to everyone
