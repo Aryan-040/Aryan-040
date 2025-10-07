@@ -1,157 +1,74 @@
-# 🌟 Welcome to My Digital Universe! 🌟
+# 👋 Hi, I'm Aryan Mukund Singh  
+### Software Engineer | Cloud & Full-Stack Developer | AI-Powered Systems Enthusiast  
 
 <div align="center">
-
-<!-- Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=✨%20Hey,%20I'm%20Aryan%20Mukund%20Singh%20✨&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Tech%20Explorer&descAlign=50&descAlignY=55&descSize=16)
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,50:182848,100:2c5364&height=150&section=header&text=Welcome%20to%20My%20GitHub&fontSize=30&fontColor=ffffff&fontAlignY=35)
 
 </div>
 
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 🎯 About Me
+## 🧭 About Me  
+I’m a **Software Engineer** with a strong focus on building **scalable, cloud-native applications** and **intelligent web systems**.  
+My goal is to bridge the gap between backend logic, cloud infrastructure, and user experience through thoughtful engineering and modern tooling.
 
+- 💻 Building modern full-stack web applications  
+- ☁️ Working with AWS, Docker, and Kubernetes  
+- 🤖 Exploring the intersection of AI and automation  
+- 🛠️ Passionate about system design and scalable architecture  
+
+---
+
+## 🧰 Tech Stack  
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="10">
-<tr>
-<td width="50%" valign="top">
 
-### 🚀 What I Do
-- 💻 Full-Stack Development with modern frameworks
-- ☁️ Cloud Computing & DevOps enthusiast  
-- 🎨 UI/UX Design that users love
-- 🤖 AI Integration in web applications
-- 📱 Mobile-First responsive solutions
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,python,cpp,aws,docker,kubernetes,postgres,mongodb,git" height="42"/>
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-### ⚡ Quick Facts
-- 🎯 Passion: Transforming ideas into digital reality
-- 💡 Philosophy: Code → Build → Break → Learn → Repeat
-- 🎵 Fun Fact: I debug better with music on!
-- 🌍 Mission: Making technology accessible to everyone
+---
 
-</td>
-</tr>
+## 📈 GitHub Overview  
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Aryan-040&show_icons=true&theme=tokyonight&hide_border=true" height="160"/></td>
+    <td><img src="https://streak-stats.demolab.com?user=Aryan-040&theme=tokyonight&hide_border=true" height="160"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-040&layout=compact&theme=tokyonight&hide_border=true" height="160"/></td>
+  </tr>
 </table>
-</div>
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🌐 Let's Connect & Collaborate!
-
-<div align="center">
-
-<!-- Social Icons as Tech Style -->
-<a href="https://www.instagram.com/aryan4.03/">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
-<a href="https://www.linkedin.com/in/aryan-mukund-singh/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="mailto:singharyan432002@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-
-<br><br>
-
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Aryan-040&color=667eea&style=plastic&label=Profile+Views" height="20"/>
-<img src="https://img.shields.io/github/followers/Aryan-040?style=plastic&color=667eea&labelColor=000000" height="20"/>
-</div>
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 💻 Tech Arsenal
-
-<div align="center">
-
-<h3>🌟 Languages & Core Technologies</h3>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" height="40"/>
-
-<h3>🚀 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" height="40"/>
-
-<h3>☁️ DevOps & Cloud Technologies</h3>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vite" height="40"/>
 
 </div>
 
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 📊 GitHub Analytics
+## 🚀 Current Focus  
+- Architecting **scalable backends** using Node.js & Next.js  
+- Deploying & managing **cloud infrastructure** on AWS  
+- Integrating **AI-assisted features** into production-grade apps  
+- Open to **collaboration** on impactful cloud + AI projects  
 
+---
+
+## 🌐 Connect With Me  
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center">
-<img src="https://streak-stats.demolab.com/?user=Aryan-040&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=667eea&currStreakLabel=667eea" height="150" />
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-040&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" height="150" />
-</td>
-</tr>
-</table>
+<a href="https://www.linkedin.com/in/aryan-mukund-singh/"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
+<a href="mailto:singharyan432002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>
+<a href="https://aryan-040.github.io/"><img src="https://skillicons.dev/icons?i=github" height="35"/></a>
 </div>
 
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<div align="center">
-  
-## 🎵 Currently Coding To
+---
+
+## 💬 Quote I Live By  
+> “Great software is built when code meets clarity, collaboration, and consistency.”
+
+---
 
 <div align="center">
-  
-  <!-- Main Playing Badge -->
-  <a href="https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1?si=0yQQ78ynRumr-x6Oz3FZvg">
-    <img src="https://img.shields.io/badge/🎵%20Now%20Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414" alt="Now Playing"/>
-  </a>
-  
-  <!-- Song Details Card -->
-  <table>
-    <tr>
-      <td align="center" style="border: 2px solid #1DB954; border-radius: 10px; padding: 15px; background: linear-gradient(45deg, #191414, #1DB954);">
-        <b>🎶 My Coding Anthem</b><br>
-        <sub>🎧 Perfect vibes for productive coding sessions!</sub><br>
-        <a href="https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1?si=0yQQ78ynRumr-x6Oz3FZvg">
-          <img src="https://img.shields.io/badge/🔊-Listen%20Along-1DB954?style=flat&logo=spotify&logoColor=white" alt="Listen"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Music Bars Visualization -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1000&pause=100&color=1DB954&center=true&vCenter=true&width=200&height=30&lines=♪♪♪♪♪♪♪♪♪♪♪♪;♫♫♫♫♫♫♫♫♫♫♫♫;♪♪♪♪♪♪♪♪♪♪♪♪" alt="Music Bars"/>
-  
-</div>
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💭 Random Dev Quote
+✨ *Building software that scales, learns, and lasts.* ✨  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,50:182848,100:2c5364&height=100&section=footer"/>
 
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" width="450" />
-</div>
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Aryan-040/Aryan-040/output/snake.svg" alt="Snake animation" />
-</div>
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-### 💻 "Code is not just my profession, it's my passion!" 💻
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&animation=twinkling" width="100%"/>
-**Thanks for visiting! Let's build something amazing together! 🚀**
 </div>
