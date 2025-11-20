@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Software Engineer** focused on building **scalable, cloud-native applications** and **AI-powered systems**.  
 I bridge backend logic, cloud infrastructure, and user experience through modern engineering practices.
@@ -28,7 +28,7 @@ I bridge backend logic, cloud infrastructure, and user experience through modern
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -46,7 +46,7 @@ I bridge backend logic, cloud infrastructure, and user experience through modern
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -59,7 +59,7 @@ I bridge backend logic, cloud infrastructure, and user experience through modern
 
 <div align="center">
 
-## 🌐 Explore My Work
+## Explore My Work
 
 **Experience my F1-themed interactive portfolio with animations, live telemetry, and immersive sound effects.**
 
@@ -71,13 +71,13 @@ I bridge backend logic, cloud infrastructure, and user experience through modern
 
 <br><br>
 
-*⚡ Fast • 🎨 Interactive • 🏎️ Unique*
+*Fast • Interactive • Unique*
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -95,7 +95,7 @@ I bridge backend logic, cloud infrastructure, and user experience through modern
 
 <br>
 
-✨ **Building software that scales, learns, and lasts** ✨
+ **Building software that scales, learns, and lasts** 
 
 <br>
 
