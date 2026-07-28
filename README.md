@@ -93,8 +93,9 @@ Bookmarking platform · sub-200ms search, 1000+ items
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Aryan-040&show_icons=true&hide_border=true&theme=default&hide_title=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-040&layout=compact&hide_border=true&theme=default" />
+<img height="160" src="https://github-readme-streak-stats-eight.vercel.app?user=Aryan-040&hide_border=true&theme=default&sections=current,longest" />
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=Aryan-040&show_icons=true&hide_border=true&theme=default&hide_title=true&hide=commits,prs,issues,contribs" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aryan-040&layout=compact&hide_border=true&theme=default" />
 
 </div>
 
